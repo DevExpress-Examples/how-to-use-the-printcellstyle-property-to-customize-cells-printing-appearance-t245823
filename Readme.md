@@ -4,7 +4,7 @@
 * [ReportService.svc.cs](./CS/SLGridExample.Web/ReportService.svc.cs) (VB: [ReportService.svc.vb](./VB/SLGridExample.Web/ReportService.svc.vb))
 * [SLGridExampleTestPage.aspx](./CS/SLGridExample.Web/SLGridExampleTestPage.aspx) (VB: [SLGridExampleTestPage.aspx](./VB/SLGridExample.Web/SLGridExampleTestPage.aspx))
 * [MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLGridExample/MainPage.xaml.vb))
 * [TestData.cs](./CS/SLGridExample/Model/TestData.cs) (VB: [TestData.vb](./VB/SLGridExample/Model/TestData.vb))
 * [PrintCellStylesSL.xaml](./CS/SLGridExample/Themes/PrintCellStylesSL.xaml) (VB: [PrintCellStylesSL.xaml](./VB/SLGridExample/Themes/PrintCellStylesSL.xaml))
 <!-- default file list end -->
